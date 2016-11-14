@@ -1,1 +1,3 @@
 # FoxSpider
+
+scrapy crawl fox
